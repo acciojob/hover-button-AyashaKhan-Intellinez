@@ -5,7 +5,6 @@ background-color: black;
 font-color: white;
 border-radius: 5px;
 border: none;
-content: read-write-plaintext-only;
 }
 #btn:hover{
 	background-color: yellow;
